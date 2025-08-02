@@ -50,10 +50,5 @@ An interactive Power BI dashboard was created to visualize:
 
 ---
 
-## 🚀 How to Run
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Pranav-bot81/Hotel_Bookings.git
-   cd Hotel_Bookings
 

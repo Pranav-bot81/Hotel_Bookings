@@ -91,9 +91,4 @@ Based on the analysis, the project will conclude with actionable recommendations
 
 ---
 
-## 🚀 How to Run This Project
 
-1. Clone the repository  
-```bash
-git clone https://github.com/yourusername/indian-restaurant-sales-analysis.git
-cd indian-restaurant-sales-analysis

@@ -46,7 +46,6 @@ An interactive Power BI dashboard was created to visualize:
 - Top countries with highest cancellations
 - Segment-wise booking performance
 
-> 💡 *Link to Power BI Dashboard*: _[Add your dashboard link here if deployed or exported]_
 
 ---
 
